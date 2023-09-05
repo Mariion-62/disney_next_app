@@ -1,0 +1,20 @@
+.navBar {
+  color: var(--color-white);
+  background-color: var(--color-blue-light);
+}
+.contentNav {
+  display: flex;
+  justify-content: space-between;
+}
+.imgLogo {
+  width: 100px;
+  height: 100px;
+}
+.items {
+  margin: auto;
+}
+.item a {
+  color: var(--color-white);
+  text-decoration: none;
+  text-transform: uppercase;
+}
